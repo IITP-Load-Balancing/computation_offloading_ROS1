@@ -1,6 +1,21 @@
 # computation offloading ROS1
 ROS 기반 자율주행 application의 로드밸런싱을 위한 computation offloading 기술 개발
 
+# Sofware Spec
+
+## 프로그램종류	
+대분류 : 시스템 S/W
+중분류 : 미들웨어
+소분류 : 기타 미들웨어
+
+##적용분야	
+ROS(Robot Operating System) 기반의 자율주행 application
+
+##사용방법	
+ROS melodic이 빌드된 ubuntu 18.04 환경 필요, 구체적인 내용은 첨부파일 사용방법.pdf 
+
+# details
+
 ## 프로그램 overview
 본 프로그램, "ROS 기반 자율주행 application의 로드밸런싱을 위한 computation offloading 기술 개발"은 ROS 기반의 자율주행 객체 인식 application(YOLOv3)의 computing task를 local embedded board(OBU)에서 server pc(RSU)로 적응적으로 offloading하여 종단 간 지연시간(end-to-end latency)을 최소화함을 목표로 함.
  
