@@ -1,3 +1,5 @@
+출처 : https://github.com/leggedrobotics/darknet_ros
+
 # YOLO ROS: Real-Time Object Detection for ROS
 
 ## Overview
