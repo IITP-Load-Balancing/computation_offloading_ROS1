@@ -12,7 +12,7 @@ ROS 기반 자율주행 application의 로드밸런싱을 위한 computation off
 ROS(Robot Operating System) 기반의 자율주행 application
 
 ##사용방법	
-ROS melodic이 빌드된 ubuntu 18.04 환경 필요, 구체적인 내용은 첨부파일 사용방법.pdf 
+ROS melodic이 빌드된 ubuntu 18.04 환경 필요, 구체적인 내용은 첨부파일 사용방법.pdf 참고
 
 # details
 
